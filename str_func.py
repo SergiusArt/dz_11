@@ -1,3 +1,6 @@
 def big_str(s):
-    return s.upper
+    '''
+    Function that upgrade your text to text with big letter
+    '''
+    return s.upper()
 
