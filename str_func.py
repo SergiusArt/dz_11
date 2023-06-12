@@ -12,7 +12,7 @@ def first_big_letter(s):
     Every word will have first letter is big
     """
 
-    return s.title()
 
+    return s.title()
 
 
